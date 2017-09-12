@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+button,input,textarea{
+  outline: none;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 40px;
+  padding: 20px;
+  color: white;
+}
+.App-header .nav {
+  display: inline-block
+}
+
+.App-header .nav li{
+  float: left;
+  padding: 0 20px;
+  font-size: 20px;
+  line-height: 40px;
+}
+.App-header .nav li a{
+  color: white
+}
