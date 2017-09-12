@@ -2,6 +2,7 @@
   "name": "jsencrypt_demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://xiyuyizhi.github.io/encrypt/",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
